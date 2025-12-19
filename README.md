@@ -1,4 +1,4 @@
-# DAPI Nuclei Counter with Proliferation Analysis
+# DAPI Stained Nuclei Counter with Proliferation Analysis
 
 ## 📊 Overview
 A production-ready Python tool for automated nuclei counting and proliferation analysis from fluorescence microscopy images. Processes DAPI and CY5 channel images to count total nuclei and proliferating cells.
